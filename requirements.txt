@@ -1,0 +1,21 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+scikit-image
+opencv-python
+Pillow
+matplotlib
+seaborn
+plotly
+
+# TensorFlow / Keras stack
+tensorflow
+keras-preprocessing
+
+# Notebook support
+ipython
+
+# Optional for model plotting utilities
+pydot
+graphviz
